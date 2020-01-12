@@ -8,4 +8,6 @@
  Single or BiQuads in direct form 1
  BiQuads in Transposed direct form 2
  
+ Picture shows how the pure analog filter is expressed as a Laplace polynom then it is transfered to digital domain with bilinear or match transforms.
+ The digital filter matches the analog trace very well.  
  ![](BiQuad.png)
